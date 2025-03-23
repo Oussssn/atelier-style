@@ -24,7 +24,7 @@ Not: Şu anda ücretsiz kullanım hakları nedeniyle Gemini API'nin gemini-2.0-f
 
 1. Depoyu klonlayın
 ```bash
-git clone https://github.com/yourusername/atelier-style.git
+git clone https://github.com/Oussssn/atelier-style.git
 cd atelier-style
 ```
 
@@ -87,7 +87,7 @@ Note: Currently using the available version of Gemini API due to free usage righ
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/atelier-style.git
+git clone https://github.com/Oussssn/atelier-style.git
 cd atelier-style
 ```
 
@@ -117,6 +117,9 @@ The following environment variables are required:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+Contributors:
+- @Ezzgiturann
 
 ## License
 
